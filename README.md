@@ -1,6 +1,6 @@
 # Navigation
 -    <a href="angularjsMovieApi/index.html">AngularJs Movie API: index.html</a>
--    <a href="Pages/index.html">Intro to Front End Web Development: Cuttlefish index.html</a>
+-    <a href="cuttlefish/Pages/index.html">Intro to Front End Web Development: Cuttlefish index.html</a>
 
 ## Welcome to GitHub Pages
 
