@@ -1,8 +1,8 @@
 
 
 # Navigation 
--    <a href="angularjsMovieApi/index.html">AngularJs Movie API: index.html</a>
--    <a href="cuttlefish/Pages/index.html">Intro to Front End Web Development: Cuttlefish index.html</a>
+-    <a href="https://csd-rtc.github.io/angularjsMovieApi/index.html#/popular">AngularJs Movie API: index.html</a>
+-    <a href="https://csd-rtc.github.io/cuttlefish/Pages/index.html">Intro to Front End Web Development: Cuttlefish index.html</a>
 
 
 
